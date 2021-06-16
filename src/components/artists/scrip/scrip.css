@@ -1,0 +1,73 @@
+#grid{
+    display: grid;
+    padding-top: 15px;
+    padding-bottom: 170px;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 300px 300px 300px;
+}
+#chistii, #babyMama, #pvl, #multi, #vusota, #dragon, #mister, #vision, #odnogo{
+    border: 1px solid ghostwhite;
+    border-radius: 25px;
+    height: 275px;
+    width: 225px;
+}
+#chistii:hover{
+    background-color: rgba(7, 139, 110, 0.239);
+}
+#babyMama:hover{
+    background-color: rgba(3, 228, 97, 0.342);
+}
+#pvl:hover{
+    background-color: rgba(82, 3, 228, 0.15);
+}
+#multi:hover{
+    background-color: rgba(214, 19, 35, 0.239);
+}
+#vusota:hover{
+    background-color: rgba(233, 119, 13, 0.219);
+}
+#dragon:hover{
+    background-color: rgba(42, 85, 2, 0.246);
+}
+#mister:hover{
+    background-color: rgba(255, 208, 0, 0.171);
+}
+#vision:hover{
+    background-color: rgba(15, 147, 15, 0.152);
+}
+#odnogo:hover{
+    background-color: rgba(13, 19, 2, 0.459);
+}
+.image{
+    height: 200px;
+    width: 200px;
+    padding-top: 20px;
+    padding-left: 10px;
+    border-radius: 40px;
+}
+#scriptonitImg{
+    height: 40px;
+    width: 280px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+#babyImg, #pvlImg, #chistiiImg, #multiImg, #vusotaImg, #dragonImg, #misterImg, #visionImg, #odnogoImg{
+    padding-left: 12.5px;
+}
+.text{
+    font-size: 1.3em;
+    text-align: center;
+    font-family: Monotype Corsiva, cursive;
+    color: cornsilk;
+}
+.aaa:hover{
+    color: rgb(97, 184, 184);
+}
+.horizontal{
+    margin-left: 100px;
+    margin-right: 100px;
+}

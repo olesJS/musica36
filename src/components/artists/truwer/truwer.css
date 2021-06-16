@@ -1,0 +1,56 @@
+.container{
+    display: grid;
+    padding-top: 15px;
+    padding-bottom: 170px;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 300px 300px;
+}
+#truwImg{
+    height: 50px;
+    width: 325px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.horizontal{
+    margin-left: 125px;
+    margin-right: 125px;
+}
+.image{
+    height: 200px;
+    width: 200px;
+    padding-top: 20px;
+    padding-left: 12.5px;
+    border-radius: 40px;
+}
+.block{
+    border: 1px solid ghostwhite;
+    border-radius: 25px;
+    height: 275px;
+    width: 225px;
+}
+#diablo:hover{
+    background-color: rgba(255, 208, 0, 0.2);
+}
+#osa:hover{
+    background-color: rgba(236, 236, 236, 0.075);
+}
+#shot:hover{
+    background-color: rgba(4, 4, 77, 0.37);
+}
+#kaz:hover{
+    background-color: rgba(255, 145, 0, 0.185);
+}
+#medali:hover{
+    background-color: rgba(97, 47, 0, 0.349);
+}
+#kiresin:hover{
+    background-color: rgba(7, 204, 7, 0.158);
+}
+.txt{
+    padding-top: 10px;
+    text-align: center;
+}

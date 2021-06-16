@@ -1,0 +1,61 @@
+.head {
+    display: block;
+    position: relative;
+    opacity: 0.8;
+    height: 70px;
+    padding-top: 25px;
+    padding-left: 25%;
+    background-color: black;
+}
+#logoPng {
+    padding-left: 20%;
+    background-color: black;
+}
+#artistsButton {
+    position: fixed;
+    margin-left: 12%;
+    margin-top: 15px;
+    border: none;
+    color: white;
+    background-color: black;
+    font-size: 1.3em;
+    font-family: Courier, monospace;
+}
+#artistsButton:hover {
+    color: rgb(46, 129, 122);
+}
+#artistsButton:active {
+    color: rgb(46, 129, 122);
+}
+#imgButton {
+    position: fixed;
+    margin-left: 20px;
+    background-color: black;
+    border: none;
+}
+#videoButton { 
+    position: fixed;
+    margin-left: 24%;
+    margin-top: 15px;
+    border: none;
+    color: white;
+    background-color: black;
+    font-size: 1.35em;
+    font-family: Courier, monospace;
+}
+#videoButton:hover {
+    color: rgb(46, 129, 122);
+}
+#contactsButton {
+    position: fixed;
+    margin-left: 35%;
+    margin-top: 15px;
+    border: none;
+    color: white;
+    background-color: black;
+    font-size: 1.35em;
+    font-family: Courier, monospace;
+}
+#contactsButton:hover {
+    color: rgb(46, 129, 122);    
+}

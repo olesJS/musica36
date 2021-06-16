@@ -1,0 +1,81 @@
+.flexBox{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+#scriptonite{
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    height: 100%;
+}
+#scriptoniteImg{
+    width: 350px;
+    height: 50px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    padding-left: 35px;
+}
+#scriptoniteButt{
+    border: 0.5px none;
+    background-color: none;
+    border-radius: 100px;
+    margin-left: 750px;
+    margin-right: 35px;
+    margin-top: 75px;
+    padding: 25px;
+    float: right;
+}
+#scriptoniteButt:hover{
+    background-color: greenyellow;
+}
+/*.butt{
+    border: 0.5px none;
+    background-color: none;
+    border-radius: 100px;
+    margin-left: 700px;
+    margin-top: 75px;
+    padding: 25px;
+}*/
+#truwerImg{
+    width: 250px;
+    height: 50px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    padding-left: 35px;
+}
+#truwerButt{
+    border: 0.5px none;
+    background-color: none;
+    border-radius: 100px;
+    margin-left: 350px;
+    margin-right: 75px;
+    margin-top: 75px;
+    padding: 25px;
+    float: right;
+}
+#truwerButt:hover{
+    background-color: greenyellow;
+}
+#gruppaImg{
+    width: 250px;
+    height: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 35px;
+}
+#gruppaButt{
+    border: 0.5px none;
+    background-color: none;
+    border-radius: 100px;
+    margin-left: 350px;
+    margin-right: 75px;
+    margin-top: 75px;
+    padding: 25px;
+    float: right;
+}
+#gruppaButt:hover{
+    background-color: greenyellow;
+}

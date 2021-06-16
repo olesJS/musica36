@@ -1,0 +1,82 @@
+#emails{
+    display: inline;
+    position: left;
+    padding-left: 10%;
+    padding-top: 4%;
+}
+.mailName{
+    display: inline-block;
+    position: left;
+    font-size: 2.4em;
+    color: whitesmoke;
+    font-family: Mistral, cursive;
+    margin-left: 10%;
+    margin-top: 4%;
+    margin-bottom: 10px;
+    padding-right: 0px;
+}
+#forms{
+    padding-left: 22%;
+}
+#formsTxt{
+    padding-top: 25%;
+    padding-bottom: 0px;
+    font-size: 2em;
+}
+#firstInput{
+    margin-top: -8px;
+    width: 130%;
+    font-size: 1.2em;
+    color: white;
+    padding-bottom: 10px;
+    padding-left: 5%;
+    padding-top: 10px;
+    padding-right: 5%;
+    border-radius: 15px;
+    border: 1px solid whitesmoke;
+    background-color: rgba(255, 255, 255, 0.041);
+}
+#secondInput{
+    margin-top: 2%;
+    width: 130%;
+    font-size: 1.5em;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-right: 2%;
+    padding-top: 10px;
+    color: white;
+    border: 1px solid whitesmoke;
+    background-color: rgba(255, 255, 255, 0.041);
+    border-radius: 15px;
+}
+#mail{
+    display: inline-block;
+    color: whitesmoke;
+    font-size: 1.8em;
+    margin-top: 0px;
+    padding-right: 0%;
+    margin-right: 0%;
+    margin-left: 10%;
+    font-family: Monotype Corsiva, cursive;
+}
+#mailOne, #mailTwo{
+    display: inline-block;
+    color: whitesmoke;
+    font-size: 1.8em;
+    margin-top: 0px;
+    padding-right: 0%;
+    margin-right: 0%;
+    margin-left: 10%;
+    font-family: Monotype Corsiva, cursive;
+}
+#mail:hover, #mailOne:hover, #mailTwo:hover{
+    color: lightseagreen;
+}
+#book{
+    padding-top: 75px;
+}
+#parent{
+    display: flex;
+    flex-direction: row;
+}

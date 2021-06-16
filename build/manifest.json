@@ -1,0 +1,25 @@
+{
+  "short_name": "Musica36",
+  "name": "Site of Musica36",
+  "icons": [
+    {
+      "src": "https://yt3.ggpht.com/ytc/AAUvwngHFT2ZzbCOgkqxJkSMjaiCygBlDMNUjs36QLWVqA=s900-c-k-c0x00ffffff-no-rj",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://yt3.ggpht.com/ytc/AAUvwngHFT2ZzbCOgkqxJkSMjaiCygBlDMNUjs36QLWVqA=s900-c-k-c0x00ffffff-no-rj",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://yt3.ggpht.com/ytc/AAUvwngHFT2ZzbCOgkqxJkSMjaiCygBlDMNUjs36QLWVqA=s900-c-k-c0x00ffffff-no-rj",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3CB371",
+  "background_color": "#3CB371"
+}

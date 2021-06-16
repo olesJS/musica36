@@ -1,0 +1,75 @@
+.wrapper {
+    display: grid;
+    padding-top: 15px;
+    padding-bottom: 170px;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    grid-template-columns: 220px 220px 220px;
+    grid-template-rows: 270px 270px;
+}
+#articleTitle{
+    color: ivory;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: Mistral, cursive;
+}
+#whistlesPapersImg{
+    width: 175px;
+    height: 175px;
+}
+#whistlesPapersName{
+    color: ivory;
+    font-size: 1.1em;
+    font-family: Monotype Corsiva, cursive;
+    text-align: center;
+    padding-right: 47px;
+}
+#whistlesPapersName:hover{
+    color: lightgreen;
+}
+.aaa{
+    color: ivory;
+}
+.aaa:hover{
+    color: lightgreen;
+}
+#mamaImg{
+    width: 180px;
+    height: 180px;
+    padding-left: 12px;
+}
+#mamaName, #hybridName, #chistiiName, #atlantaName, #sumkaName{
+    color: ivory;
+    font-size: 1em;
+    font-family: Monotype Corsiva, cursive;
+    text-align: left;
+}
+#mamaName:hover, #hybridName:hover, #chistiiName:hover, #atlantaName:hover, #sumkaName:hover{
+    color: lightgreen;
+}
+#sumkaImg{
+    width: 190px;
+    height: 190px;
+}
+#hybrid{
+    padding-right: 30px;
+}
+#hybridImg{
+    width: 190px;
+    height: 190px;
+}
+#atlantaImg{
+    width: 185px;
+    height: 195px;
+}
+#chisti{
+    margin-left: 20px;
+}
+#chistiImg{
+    width: 190px;
+    height: 190px;
+    padding-right: 18px;
+}

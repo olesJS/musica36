@@ -1,0 +1,30 @@
+#mainGrpImg{
+    height: 100px;
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#kpsp:hover{
+    background-color: rgba(27, 233, 175, 0.116);
+}
+#jusn:hover{
+    background-color: rgba(6, 15, 133, 0.281);
+}
+#podruga:hover{
+    background-color: rgba(238, 179, 228, 0.171);
+}
+#solitude:hover{
+    background-color: rgba(25, 198, 241, 0.219);
+}
+#three:hover{
+    background-color: rgba(255, 115, 0, 0.233);
+}
+#devushku:hover{
+    background-color: rgba(255, 0, 149, 0.274);
+}
+#podTxt{
+    font-size: 0.9em;
+}
+#devTxt{
+    font-size: 0.9em;
+}
