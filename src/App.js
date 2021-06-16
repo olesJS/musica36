@@ -35,7 +35,7 @@ class App extends React.Component {
         this.setState({page: 3})
     }
     changeToContacts = () => {
-        this.setState({page: 4})
+        this.setState({page: 5})
     }
 
     mainPage = () => {
@@ -115,7 +115,7 @@ class App extends React.Component {
             return this.grpPage();
         } else if (this.state.page === 3){
             return this.videoPage();
-        } else if (this.state.page === 4){
+        } else if (this.state.page === 5){
             return this.contactsPage();
         }
     }
